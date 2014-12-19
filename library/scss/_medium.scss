@@ -1,0 +1,100 @@
+/******************************************************************
+
+Stylesheet: Mediun Stylesheet
+
+Styles apply to 40.063em and up.
+
+******************************************************************/
+
+
+/*********************
+HEADER STYLES
+*********************/
+
+.head-logo{
+    margin-bottom: 0;
+}
+
+.header {
+    border-bottom: 3px solid $primary-color;
+    padding-bottom:0;
+}
+	
+/*********************
+NAVIGATION STYLES
+*********************/
+.top_nav_menu{
+    li{
+        display: inline;
+        padding: 0px 4px 0px 3px;
+        border-right: 1px dotted #AC1660;
+    }
+    li:first-child{padding-left:0}   
+    li:last-child{border-right:0}
+}
+
+/*********************
+POSTS & CONTENT STYLES
+*********************/
+
+/* entry content */
+.entry-content {
+			
+	
+	/* at this larger size, we can start to align images */
+	.alignleft, img.alignleft { 
+		margin-right: 1.5em; 
+		display: inline; 
+		float: left; 
+	}
+	.alignright, img.alignright { 
+		margin-left: 1.5em; 
+		display: inline; 
+		float: right; 
+	}
+	.aligncenter, img.aligncenter { 
+		margin-right: auto; 
+		margin-left: auto; 
+		display: block; 
+		clear: both; 
+	}
+			
+} /* end .entry-content */
+
+/*********************
+SIDEBARS & ASIDES
+*********************/
+
+.widget {
+}
+
+.sidebar-3-pad{
+    padding-left: 10px;
+}
+
+.sidebar-4-pad{
+    padding-left: 25px;
+}
+
+
+/*********************
+FOOTER STYLES
+*********************/
+	
+/*
+check your menus here. do they look good?
+do they need tweaking?
+*/
+.footer-links {
+	ul {
+		li {}
+	}
+} /* end .footer-links */
+			
+/*********************
+FOUNDATION STYLES
+*********************/
+
+/*********************
+PLUGIN STYLES
+*********************/

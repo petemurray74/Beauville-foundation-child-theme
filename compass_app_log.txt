@@ -1,0 +1,139 @@
+2014-08-12 12:26:31     error library/scss/style.scss (Line 18: File to import not found or unreadable: ../../JointsWP/library/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation-child/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-08-12 12:26:31    create library/css/style.css 
+2014-08-12 12:27:59     error library/scss/style.scss (Line 18: File to import not found or unreadable: ../../JointsWP/bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation-child/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-08-12 12:27:59 overwrite library/css/style.css 
+2014-08-12 12:33:05     error library/scss/style.scss (Line 21: File to import not found or unreadable: ../../JointsWP/library/scss/mixins.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation-child/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-08-12 12:33:05 overwrite library/css/style.css 
+2014-08-12 12:33:13     error library/scss/style.scss (Line 18 of library/scss/_foundation.scss: File to import not found or unreadable: ../../../JointsWP/bower_components/foundation/scss/foundation/components/switch.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation-child/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets
+  C:/Program Files/vendor/assets/stylesheets)
+2014-08-12 12:33:13 overwrite library/css/style.css 
+2014-08-12 12:34:38     error library/scss/style.scss (Line 18 of library/scss/_foundation.scss: File to import not found or unreadable: ../../../JointsWP/bower_components/foundation/scss/foundation/components/switch.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation-child/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets
+  C:/Program Files/vendor/assets/stylesheets)
+2014-08-12 12:34:38 identical library/css/style.css 
+2014-08-12 12:38:35 overwrite library/css/style.css 
+2014-08-12 16:42:49 overwrite library/css/style.css 
+2014-08-12 16:43:08 overwrite library/css/style.css 
+2014-08-12 16:46:15     error library/scss/style.scss (Line 13 of library/scss/_settings.scss: File to import not found or unreadable: ../../../JointsWP/bower_components/foundation/functions.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation-child/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets
+  C:/Program Files/vendor/assets/stylesheets)
+2014-08-12 16:46:15 overwrite library/css/style.css 
+2014-08-12 16:47:26 overwrite library/css/style.css 
+2014-08-12 16:53:50 identical library/css/style.css 
+2014-08-12 16:54:12 identical library/css/style.css 
+2014-08-12 17:06:36 identical library/css/style.css 
+2014-08-12 17:06:57     error library/scss/style.scss (Line 60 of library/scss/_settings.scss: Invalid CSS after "...lors throughout": expected "{", was "$primary-color:...")
+2014-08-12 17:06:57 overwrite library/css/style.css 
+2014-08-12 17:07:06     error library/scss/style.scss (Line 60 of library/scss/_settings.scss: Invalid CSS after "...lors throughout": expected "{", was "$primary-color:...")
+2014-08-12 17:07:06 identical library/css/style.css 
+2014-08-12 17:07:42 overwrite library/css/style.css 
+2014-08-12 17:10:21 overwrite library/css/style.css 
+2014-08-12 17:13:02 overwrite library/css/style.css 
+2014-08-12 17:30:39 overwrite library/css/style.css 
+2014-08-12 17:32:09 overwrite library/css/style.css 
+2014-08-12 17:36:49 overwrite library/css/style.css 
+2014-08-12 17:37:49 overwrite library/css/style.css 
+2014-08-12 17:38:08 overwrite library/css/style.css 
+2014-08-12 17:38:32 overwrite library/css/style.css 
+2014-08-12 17:39:08 identical library/css/style.css 
+2014-08-12 17:39:22 overwrite library/css/style.css 
+2014-08-12 17:40:06 overwrite library/css/style.css 
+2014-08-12 17:40:33 overwrite library/css/style.css 
+2014-08-12 17:41:10 overwrite library/css/style.css 
+2014-08-12 17:44:28 overwrite library/css/style.css 
+2014-08-12 17:45:09 overwrite library/css/style.css 
+2014-08-12 17:45:46 overwrite library/css/style.css 
+2014-08-12 17:47:38 overwrite library/css/style.css 
+2014-08-12 17:48:18 overwrite library/css/style.css 
+2014-08-12 17:48:44 overwrite library/css/style.css 
+2014-08-12 17:49:12 overwrite library/css/style.css 
+2014-08-12 17:49:59 overwrite library/css/style.css 
+2014-08-12 17:50:56 overwrite library/css/style.css 
+2014-08-12 17:52:46 overwrite library/css/style.css 
+2014-08-12 17:52:58 overwrite library/css/style.css 
+2014-08-12 17:53:27 identical library/css/style.css 
+2014-08-12 17:53:36 overwrite library/css/style.css 
+2014-08-12 17:54:42 overwrite library/css/style.css 
+2014-08-29 10:25:53 overwrite library/css/style.css 
+2014-08-29 10:31:10     error library/scss/style.scss (Line 730 of library/scss/_small.scss: Invalid CSS: a space is required between a property and its definition
+when it has other properties nested beneath it.
+)
+2014-08-29 10:31:10 overwrite library/css/style.css 
+2014-08-29 10:31:53 overwrite library/css/style.css 
+2014-08-29 10:36:03 overwrite library/css/style.css 
+2014-08-29 10:38:17 identical library/css/style.css 
+2014-08-29 10:38:29 overwrite library/css/style.css 
+2014-08-29 10:39:44 overwrite library/css/style.css 
+2014-08-29 10:40:52 overwrite library/css/style.css 
+2014-08-29 10:41:53 overwrite library/css/style.css 
+2014-08-29 10:52:50 overwrite library/css/style.css 
+2014-08-29 10:54:31 overwrite library/css/style.css 
+2014-08-29 11:24:56 overwrite library/css/style.css 
+2014-08-29 11:25:12 overwrite library/css/style.css 
+2014-08-29 11:27:09 overwrite library/css/style.css 
+2014-08-29 11:28:35 overwrite library/css/style.css 
+2014-08-29 11:30:50 overwrite library/css/style.css 

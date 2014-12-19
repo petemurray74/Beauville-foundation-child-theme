@@ -1,0 +1,627 @@
+2014-06-12 20:30:31 overwrite ../css/login.css 
+2014-06-12 20:30:37 overwrite ../css/style.css 
+2014-06-12 20:46:05    remove .sass-cache/ 
+2014-06-12 20:46:05    remove ../css/login.css 
+2014-06-12 20:46:05    remove ../css/style.css 
+2014-06-12 20:46:08    create ../css/login.css 
+2014-06-12 20:46:15     error style.scss (Line 14 of joints/_gallery.scss: Undefined variable: "$block-grid-default-spacing".)
+2014-06-12 20:46:15    create ../css/style.css 
+2014-06-12 20:46:34    remove .sass-cache/ 
+2014-06-12 20:46:34    remove ../css/login.css 
+2014-06-12 20:46:34    remove ../css/style.css 
+2014-06-12 20:46:34    create ../css/login.css 
+2014-06-12 20:46:38     error style.scss (Line 14 of joints/_gallery.scss: Undefined variable: "$block-grid-default-spacing".)
+2014-06-12 20:46:38    create ../css/style.css 
+2014-06-12 20:47:55    remove .sass-cache/ 
+2014-06-12 20:47:56    remove ../css/style.css 
+2014-06-12 20:47:59     error style.scss (Line 14 of joints/_gallery.scss: Undefined variable: "$block-grid-default-spacing".)
+2014-06-12 20:47:59    create ../css/style.css 
+2014-06-12 20:48:29    remove .sass-cache/ 
+2014-06-12 20:48:29    remove ../css/style.css 
+2014-06-12 20:48:33     error style.scss (Line 14 of joints/_gallery.scss: Undefined variable: "$block-grid-default-spacing".)
+2014-06-12 20:48:33    create ../css/style.css 
+2014-06-12 20:51:31 overwrite ../css/style.css 
+2014-06-12 20:54:11    remove .sass-cache/ 
+2014-06-12 20:54:11    remove ../css/style.css 
+2014-06-12 20:54:16    create ../css/style.css 
+2014-06-12 20:56:11    remove .sass-cache/ 
+2014-06-12 20:56:11    remove ../css/style.css 
+2014-06-12 20:56:16    create ../css/style.css 
+2014-06-12 21:04:55    create ../css/foundation.css 
+2014-06-12 21:04:55    create ../css/normalize.css 
+2014-06-12 21:04:55     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:55 overwrite ../css/style.css 
+2014-06-12 21:04:55     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:55 identical ../css/style.css 
+2014-06-12 21:04:55     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:55 identical ../css/style.css 
+2014-06-12 21:04:55     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:55 identical ../css/style.css 
+2014-06-12 21:04:55     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:55 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:56     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:56 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:57     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:57 identical ../css/style.css 
+2014-06-12 21:04:58     error style.scss (Line 18: File to import not found or unreadable: ../../bower_components/foundation/scss/normalize.
+Load paths:
+  E:/my docs/web_server/beauville_arts/wp-content/themes/beauville-foundation/library/scss
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Program Files/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  Compass::SpriteImporter
+  C:/Program Files/vendor/assets/stylesheets)
+2014-06-12 21:04:58 identical ../css/style.css 
+2014-06-12 21:10:41 overwrite ../css/style.css 
+2014-06-12 21:12:27 overwrite ../css/style.css 
+2014-06-12 21:12:50 overwrite ../css/style.css 
+2014-06-12 22:31:33 overwrite ../css/style.css 
+2014-06-13 14:34:53 overwrite ../css/style.css 
+2014-06-13 14:34:58 identical ../css/style.css 
+2014-06-13 14:38:15 overwrite ../css/style.css 
+2014-06-13 14:38:40 overwrite ../css/style.css 
+2014-06-13 14:38:52 overwrite ../css/style.css 
+2014-06-13 14:41:32 overwrite ../css/style.css 
+2014-06-13 14:42:12 overwrite ../css/style.css 
+2014-06-13 14:43:23 overwrite ../css/style.css 
+2014-06-13 14:43:50 overwrite ../css/style.css 
+2014-06-13 14:47:44 overwrite ../css/style.css 
+2014-06-13 14:48:52 overwrite ../css/style.css 
+2014-07-11 16:05:31 overwrite ../css/style.css 
+2014-07-11 16:09:03 overwrite ../css/style.css 
+2014-07-11 16:22:01 overwrite ../css/style.css 
+2014-07-11 16:23:10 overwrite ../css/style.css 
+2014-07-11 16:24:30 overwrite ../css/style.css 
+2014-07-11 16:25:20 overwrite ../css/style.css 
+2014-07-11 16:25:47 overwrite ../css/style.css 
+2014-07-11 16:28:54     error style.scss (Line 1161 of _settings.scss: Undefined variable: "$secondary-font-family".)
+2014-07-11 16:28:54 overwrite ../css/style.css 
+2014-07-11 16:29:53     error style.scss (Line 1161 of _settings.scss: Undefined variable: "$secondary-font-family".)
+2014-07-11 16:29:53 identical ../css/style.css 
+2014-07-11 16:30:55 overwrite ../css/style.css 
+2014-07-11 16:31:27 overwrite ../css/style.css 
+2014-07-11 16:32:10 overwrite ../css/style.css 
+2014-07-11 16:34:15 overwrite ../css/style.css 
+2014-07-11 16:35:53 overwrite ../css/style.css 
+2014-07-11 16:44:25 overwrite ../css/style.css 
+2014-07-11 16:52:50 overwrite ../css/style.css 
+2014-07-11 16:53:13 overwrite ../css/style.css 
+2014-07-11 16:56:55 overwrite ../css/style.css 
+2014-07-11 18:51:59 overwrite ../css/style.css 
+2014-07-11 18:58:23 overwrite ../css/style.css 
