@@ -157,8 +157,9 @@ HEADER STYLES
 }
 
 #lang_sel {
-    float:right;
+    float:left;
     padding-bottom: 2px;
+    margin-top:1em
 }
     
 /*********************
@@ -192,12 +193,26 @@ box-shadow: 0px 0px;
 box-shadow: inset 1px 0px 0px 0px #bbb, inset 2px 0px 0px 0px #fff;
 }
 
+.top-bar-section>ul>li:first-child>a {
+box-shadow: 0 0 0;
+}
+
 .top_nav_menu{
     font-family: $quaternary-font-family;
     font-size:rem-calc(12);
     margin: 6px 0px 0px 0px;
     list-style-type: none;
 }
+
+.top_nav_menu{
+    li{
+        display: inline;
+        padding: 0px 1em 0px 1em;
+        font-size: rem-calc(14);
+    }
+    li:first-child{padding-left:0}   
+}
+    
 
 .tab-bar h1{
     font-size: rem-calc(18);
@@ -215,6 +230,12 @@ box-shadow: inset 1px 0px 0px 0px #bbb, inset 2px 0px 0px 0px #fff;
 			margin-left: 20px;
 		}
 	}
+}
+
+//stop fixed menu disappearing off LHS of screen
+.fixed .top-bar
+{
+    margin-left: 0;
 }
 
 /*********************

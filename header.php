@@ -60,7 +60,7 @@
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/contact">Contact Us</a></li>
                                 <li><a href="/category/news">News</a></li>
-                                <li><a href="/join-our-mailing-list">Sign up to our newsletter</a></li>
+                                <li><a href="/join-our-mailing-list">Newsletter</a></li>
                             </ul>
                         </div>
                         <div class="large-6 medium-6 columns">
