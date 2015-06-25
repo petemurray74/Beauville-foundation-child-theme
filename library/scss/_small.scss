@@ -242,18 +242,14 @@ POSTS & CONTENT STYLES
 *********************/
 
 #content {
-	/*adds highlight on hover */
-}
-
-
-.main-content{
-    padding:30px 0px 20px 0px;
+	padding:30mpx 0px 20px 0px;
     a:hover, a:focus {
-    text-decoration: none;
-    }
-    a{text-decoration: underline}
+        text-decoration: none;
+        }
+    a{
+        text-decoration: underline
+        }
 }
-
 .hentry {
 
 	header {}
