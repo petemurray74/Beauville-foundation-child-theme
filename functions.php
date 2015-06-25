@@ -37,6 +37,18 @@ function pm_better_wp_title( $title ) {
 	return $title;
 }
 add_filter( 'wp_title', 'pm_better_wp_title', 10, 2 );
+
+
+//BETTER META DESCRIPTIONS
+function pm_meta_desc() {  
+    if ($custom_meta_description=get_post_meta( get_the_ID(), 'meta-description', true ))
+    { 
+        echo "<meta name='description' content='$custom_meta_description' />"; 
+    }
+}  
+add_action('wp_head', 'pm_meta_desc',1);
+
+
 // ---------------
 //  RANDOM IMAGE
 // ---------------
@@ -51,21 +63,25 @@ $exts = 'jpg jpeg png gif';
 $files = array(); $i = -1; // Initialize some variables
 if ('' == $folder) $folder = './';
 
-$handle = opendir($folder);
-$exts = explode(' ', $exts);
-while (false !== ($file = readdir($handle))) {
-	foreach($exts as $ext) { // for each extension check the extension
-		if (preg_match('/\.'.$ext.'$/i', $file, $test)) { // faster than ereg, case insensitive
-		$files[] = $file; // it's good
-		++$i;
+if (is_dir($folder))
+	{
+	$handle = opendir($folder);
+	$exts = explode(' ', $exts);
+	while (false !== ($file = readdir($handle))) {
+		foreach($exts as $ext) { // for each extension check the extension
+			if (preg_match('/\.'.$ext.'$/i', $file, $test)) { // faster than ereg, case insensitive
+			$files[] = $file; // it's good
+			++$i;
+			}
 		}
 	}
-}
-closedir($handle); // We're not using it anymore
-mt_srand((double)microtime()*1000000); // seed for PHP < 4.2
-$rand = mt_rand(0, $i); // $i was incremented as we went along
+	closedir($handle); // We're not using it anymore
+	mt_srand((double)microtime()*1000000); // seed for PHP < 4.2
+	$rand = mt_rand(0, $i); // $i was incremented as we went along
 
-return $folder.$files[$rand];
+	return $folder.$files[$rand];
+	}
+else {return '';}	
 }
 
 // ---------------
