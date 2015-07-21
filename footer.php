@@ -35,4 +35,4 @@
 				<?php wp_footer(); ?>
 	</body>
 
-</html> <!-- end page trivial -->
+</html> <!-- end page back -->
