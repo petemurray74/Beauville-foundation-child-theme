@@ -22,7 +22,7 @@
 	<div class="contain-to-grid">
 		<nav class="tab-bar">
 			<section class="middle tab-bar-section">
-				<h1 class="title">Menu</h1>
+				<h2 class="title">Menu</h2>
 			</section>
 			<section class="left-small">
 				<a class="left-off-canvas-toggle menu-icon" ><span></span></a>
