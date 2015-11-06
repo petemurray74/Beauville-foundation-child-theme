@@ -870,15 +870,15 @@ FRONT PAGE
         background:$beauville-home-bk;
         color: #ffffff;
         font-family:$tertiary-font-family;
-    a {color: #ffffff}
-    h1,h2,h3,h4,h5,h6,p{font-family:$tertiary-font-family}    
-    }
-    article p{font-size: rem-calc(15);}
-    h2 {
+		a {color: #ffffff}
+		h1,h2,h3,h4,h5,h6,p{font-family:$tertiary-font-family}   
+		h2 {
         font-size: 1.55rem;
         line-height: 120%;
         letter-spacing: -0.05em;
+		}
     }
+    article p{font-size: rem-calc(15);}
     .entry-content{
     padding-right:3em;
     }
