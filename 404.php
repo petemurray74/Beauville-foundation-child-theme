@@ -13,11 +13,21 @@
 							</header> <!-- end article header -->
 					
 							<section class="entry-content">
-								<h3><?php _e("We couldn't find the page you were looking for. Try a search or return to the <a style='text-decoration:underline' href='/'>home page</a>", "jointstheme"); ?></h3>
-                                <h3><?php _e("", "jointstheme"); ?></h3>
+								
+                                <h3><?php _e("Visit these popular pages", "jointstheme"); ?></h3>
+								<ul>
+								<li><?php _e("<a href='/'>Home</a>", "jointstheme"); ?></li>
+								<li><?php _e("<a href='http://www.beauvillearts.com/musical-theatre-beauville'>Musical Theatre @ Beauville</a>", "jointstheme"); ?></li>
+								<li><?php _e("<a href='http://www.beauvillearts.com/rock-academy'>Rock Academy</a>", "jointstheme"); ?></li>
+								<li><?php _e("<a href='http://www.beauvillearts.com/hip-hop-and-commercial-dance'>Hip Hop and Commcercial Dance</a>", "jointstheme"); ?></li>
+								<li><?php _e("<a href='http://www.beauvillearts.com/advanced-songwriting-studio-recording'>Advanced Songwriting & Studio Recording</a>", "jointstheme"); ?></li>
+								
+								</ul>
+								
 							</section> <!-- end article section -->
 
 							<section class="search">
+							<h3><?php _e("Or search", "jointstheme"); ?></h3>
 							    <p><?php get_search_form(); ?></p>
 							</section> <!-- end search section -->
 						
